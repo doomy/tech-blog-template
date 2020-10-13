@@ -1,5 +1,9 @@
 # tech-blog-template
-Tech Blog Template is a basic blogging template based on bootstrap for bootstrap lover's - created by Bootcatch team. Forked by github.com/doomy with some customizations.
+Tech Blog Template is a basic blogging template based on bootstrap for bootstrap lover's - created by Bootcatch team. Forked by [github.com/doomy](https://github.com/doomy/) with some customizations.
+
+## Demo of this fork
+https://showcase.blanktopus.com/tech-blog-template/
+
 
 ## About
 
