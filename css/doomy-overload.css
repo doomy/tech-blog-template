@@ -1,0 +1,38 @@
+.bg-info {
+    background-color: #977aff !important;
+}
+
+.btn-success {
+    background-color: #7aff97;
+    color: black;
+}
+
+div.about {
+    margin-top: 8.7rem;
+    background-color: #977aff;
+    color: white;
+    padding: 1.5rem 2rem;
+}
+
+div.about a {
+    color: white;
+}
+
+div.about a.mail-link {
+    font-size: 0.7rem;
+    text-decoration: underline;
+}
+
+div.about h2 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
+
+div.about .profile-picture {
+    width: 4rem;
+}
+
+div.about div.stack {
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+}
