@@ -81,26 +81,6 @@
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               </p>
               <p>
-                <code>
-                  class DynamicPopupForm extends PopupComponent
-                  {
-                      const EVENT_DYNAMIC_FORM_SAVE = 'event_dynamic_form_save';
-                      const FORM_NAME = 'dynamicForm';
-
-                      private $dynamicForm = NULL;
-                      private $fields = [];
-                      protected $ajax = TRUE;
-
-                      public function __construct(Translator $translator)
-                      {
-
-                          //$this->injectControl(static::FORM_NAME, $this->getDynamicForm());
-                          $this->bindForm(static::FORM_NAME, $this->getDynamicForm());
-                          parent::__construct($translator);
-                      }
-                </code>
-              </p>
-              <p>
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
