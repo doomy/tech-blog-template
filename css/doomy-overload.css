@@ -36,3 +36,8 @@ div.about div.stack {
     margin-top: 0.5rem;
     font-size: 0.8rem;
 }
+
+code {
+    color: black;
+    font-family: Consolas, "Courier New", sans-serif;
+}
