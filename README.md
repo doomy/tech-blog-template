@@ -3,6 +3,7 @@ Tech Blog Template is a basic blogging template based on bootstrap for bootstrap
 
 ## Demo of this fork
 https://showcase.blanktopus.com/tech-blog-template/
+http://showcase.blanktopus.com/tech-blog-template/article-detail.html
 
 
 ## About
